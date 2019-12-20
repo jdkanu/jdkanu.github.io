@@ -59,6 +59,7 @@ ul.posts li {
 .row {
     margin: auto;
     width: 800px;
+    height: 200px;
 }
 
 .left {
