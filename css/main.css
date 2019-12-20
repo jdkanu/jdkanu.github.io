@@ -64,7 +64,7 @@ ul.posts li {
 .left {
     margin: auto;
     width: 200px;
-    height: 100%;
+    height: auto;
 }
 
 .right {
