@@ -63,11 +63,13 @@ ul.posts li {
 }
 
 .left {
+    margin: auto;
     width: 200px;
     height: 100%;
 }
 
 .right {
+    margin: auto;
     width: 600px;
     height: 100%;
 }
