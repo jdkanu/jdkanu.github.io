@@ -64,8 +64,10 @@ ul.posts li {
 
 .left {
     width: 200px;
+    height: auto;
 }
 
 .right {
     width: 600px;
+    height: auto;
 }
